@@ -1,4 +1,4 @@
-# Food Recipe App
+# The Recipe Factory
 React API Project Tutorial Using Hooks, Axios and Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
